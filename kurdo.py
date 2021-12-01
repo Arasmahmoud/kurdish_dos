@@ -8,7 +8,17 @@ import sys
 import threading
 import random
 import re
-
+print ('\033[1;31m _   _    _     _   _   _       ')
+print ('\033[1;31m| | / /  | |   / / | | | |      ')
+print ('\033[1;31m| |/ /   | |  / /  | |_| |      ')
+print ('\033[1;31m| |\ \   | | / /   \___  |      ')
+print ('\033[1;31m| | \ \  | |/ /        | |      ')
+print ('\033[1;31m|_|  \_\ |___/         |_| KV4 ')      
+print ('      ') 
+print ('Website ==> arasmahmoud.softr.app') 
+print ('Instagram ==> almcompany6') 
+print ('Linkedin ==> almcompany') 
+print ('Udemy ==> Arasmahmoud\033[1;37m .')
 #global params
 url=''
 host=''
