@@ -1,5 +1,5 @@
 this tools is for dos attack
-powerfull tools makeid by KV4
+powerfull tools maked by KV4
 
 
 use :
