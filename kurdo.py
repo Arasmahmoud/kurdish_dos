@@ -1,5 +1,5 @@
 # ----------------------------------------------------------------------------------------------
-# THIS IS HULK DOS ATTCK TOOLS BUR EDIT BY KV4 
+# THIS IS kurdo DOS ATTCK TOOLS BUR EDIT BY KV4 
 # WE MAKE THIS TOOLS MORE POWERFUL 
 # WE ADD SOME NEW ( useragents ) NOW TOOL HAVE  DOUBLE POWER
 # ----------------------------------------------------------------------------------------------
